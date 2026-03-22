@@ -1,0 +1,5 @@
+.env
+__pycache__/
+memo.json
+ngrok.stderr.log
+ngrok.stdout.log
